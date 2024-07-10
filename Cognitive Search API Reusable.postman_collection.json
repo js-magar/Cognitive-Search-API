@@ -253,7 +253,7 @@
 		},
 		{
 			"key": "AZURE_SEARCH_ADMIN_KEY",
-			"value": "JWPfnkN3qhqDzzUZqxUR2IaKGjOjTvGvrnqeHsyKYnAzSeAbmCWV",
+			"value": "*",
 			"type": "string"
 		},
 		{
@@ -263,7 +263,7 @@
 		},
 		{
 			"key": "AZURE_APPLICATION_SECRET",
-			"value": "2ug8Q~YEZK2ZyGRnZ1fn.V8BPSaSR42-E2t1Qdrg",
+			"value": "*",
 			"type": "string"
 		},
 		{
