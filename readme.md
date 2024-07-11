@@ -53,6 +53,13 @@ The repository for the necessary code is available [here](https://github.com/js-
 
     If the process isn't working, ensure that you have created a system managed instance or included a tenant id in the data source. Note that System Managed Identity requires a higher tier than the free plan.
 
+## Adding Semantic Search
+
+1. Navigate to **Knowledge Centre** > **Explore your data** > **Launch Explorer**.
+2. Go to **Query Options**.
+3. Select **Semantic Ranker**.
+4. Click **New** and create using default settings.
+
 ## Creating Azure Open AI Instance
 
 1. Create an Azure Open AI Instance.
