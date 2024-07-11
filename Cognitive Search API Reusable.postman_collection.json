@@ -273,12 +273,12 @@
 		},
 		{
 			"key": "SHAREPOINT_SITE_URL",
-			"value": "https://qualyfi-my.sharepoint.com/personal/jashanpreet_magar_qualyfi_co_uk/",
+			"value": "https://qualyfi.sharepoint.com/sites/4-Sep-23Cohort",
 			"type": "string"
 		},
 		{
 			"key": "SHAREPOINT_LIBRARY_URL",
-			"value": "https://qualyfi-my.sharepoint.com/personal/jashanpreet_magar_qualyfi_co_uk/_layouts/15/onedrive.aspx?view=0&id=%2Fpersonal%2Fjashanpreet%5Fmagar%5Fqualyfi%5Fco%5Fuk%2FDocuments%2FTest%20for%20AOI",
+			"value": "https://qualyfi.sharepoint.com/sites/4-Sep-23Cohort/Shared%20Documents/Forms/AllItems.aspx?",
 			"type": "string"
 		}
 	]
